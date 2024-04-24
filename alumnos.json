@@ -1,0 +1,7 @@
+[
+    {"idalumno": "1", "nomalumno": "Pablo Q.", "diralumno": "C/Casa", "telalumno": "678789789", "fechanacalumno": "02/01/1999", "sexo": "Hombre"},
+    {"idalumno": "2", "nomalumno": "Pedro M.", "diralumno": "C/Edificio", "telalumno": "645234876", "fechanacalumno": "03/04/1998", "sexo": "Hombre"},
+    {"idalumno": "3", "nomalumno": "Sofía S.", "diralumno": "C/Plaza", "telalumno": "654321987", "fechanacalumno": "15/07/2002", "sexo": "Mujer"},
+    {"idalumno": "4", "nomalumno": "Lucía G.", "diralumno": "C/Parque", "telalumno": "687456123", "fechanacalumno": "25/09/2000", "sexo": "Mujer"},
+    {"idalumno": "5", "nomalumno": "Hugo R.", "diralumno": "C/Playa", "telalumno": "645789321", "fechanacalumno": "12/03/2004", "sexo": "Hombre"}
+]

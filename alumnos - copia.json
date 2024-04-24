@@ -1,0 +1,17 @@
+[
+    {"idalumno": "1", "nomalumno": "Pablo Q.", "diralumno": "C/Casa", "telalumno": "678789789", "fechanacalumno": "02/01/1999", "sexo": "Hombre"},
+    {"idalumno": "2", "nomalumno": "Pedro M.", "diralumno": "C/Edificio", "telalumno": "645234876", "fechanacalumno": "03/04/1998", "sexo": "Hombre"},
+    {"idalumno": "3", "nomalumno": "Sofía S.", "diralumno": "C/Plaza", "telalumno": "654321987", "fechanacalumno": "15/07/2002", "sexo": "Mujer"},
+    {"idalumno": "4", "nomalumno": "Lucía G.", "diralumno": "C/Parque", "telalumno": "687456123", "fechanacalumno": "25/09/2000", "sexo": "Mujer"},
+    {"idalumno": "5", "nomalumno": "Hugo R.", "diralumno": "C/Playa", "telalumno": "645789321", "fechanacalumno": "12/03/2004", "sexo": "Hombre"},
+    {"idalumno": "6", "nomalumno": "Martín V.", "diralumno": "C/Camino", "telalumno": "687345612", "fechanacalumno": "19/11/2001", "sexo": "Hombre"},
+    {"idalumno": "7", "nomalumno": "Valeria L.", "diralumno": "C/Río", "telalumno": "654987654", "fechanacalumno": "28/05/2003", "sexo": "Mujer"},
+    {"idalumno": "8", "nomalumno": "Daniel D.", "diralumno": "C/Monte", "telalumno": "678123456", "fechanacalumno": "07/09/2004", "sexo": "Hombre"},
+    {"idalumno": "9", "nomalumno": "María T.", "diralumno": "C/Torre", "telalumno": "645612378", "fechanacalumno": "10/02/1998", "sexo": "Mujer"},
+    {"idalumno": "10", "nomalumno": "Elena C.", "diralumno": "C/Muralla", "telalumno": "654231789", "fechanacalumno": "14/08/2003", "sexo": "Mujer"},
+    {"idalumno": "11", "nomalumno": "David P.", "diralumno": "C/Puente", "telalumno": "645987123", "fechanacalumno": "18/06/2000", "sexo": "Hombre"},
+    {"idalumno": "12", "nomalumno": "Carla N.", "diralumno": "C/Fuente", "telalumno": "687231456", "fechanacalumno": "29/12/2002", "sexo": "Mujer"},
+    {"idalumno": "13", "nomalumno": "Alejandro A.", "diralumno": "C/Calle", "telalumno": "654312987", "fechanacalumno": "05/10/1999", "sexo": "Hombre"},
+    {"idalumno": "14", "nomalumno": "Adriana R.", "diralumno": "C/Alameda", "telalumno": "678654321", "fechanacalumno": "09/07/2001", "sexo": "Mujer"},
+    {"idalumno": "15", "nomalumno": "Javier B.", "diralumno": "C/Travesía", "telalumno": "645123789", "fechanacalumno": "21/02/2003", "sexo": "Hombre"}
+]
